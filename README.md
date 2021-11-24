@@ -1,7 +1,7 @@
  
 ## Olá! Me chamo Maxmiliano Marinho
 
-  Tenho 31 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP - DF com previsão de conclusão em Novembro de 2021.
+  Tenho 31 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP - DF concluido em 2021.
   
   Busco me aprofundar a cada dia mais nesse universo do desenvolvimento de software.
   Tenho conhecimento intermediário em desenvolvimento com as linguagens C, Java, e básico nas linguagens, DART, FLUTTER, PHP, C# e JS. Possuo também bom conhecimento em HTML5 E CSS3.

@@ -4,9 +4,11 @@
   Tenho 31 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP - DF concluido em 2021.
   
   Busco me aprofundar a cada dia mais nesse universo do desenvolvimento de software.
-  Tenho conhecimento intermediário em desenvolvimento com as linguagens C, Java, e básico nas linguagens, DART, FLUTTER, PHP, C# e JS. Possuo também bom conhecimento em HTML5 E CSS3.
+  Tenho conhecimento básico em desenvolvimento com as linguagens C, Java, e básico nas linguagens. Possuo também bom conhecimento em HTML5 E CSS3.
   
-  Estou me aprofundando na linguagem JAVA, com foco no desenvolvimento BACK-END.
+  Estou me aprofundando na linguagem JAVA, com foco no desenvolvimento BACK-END e tbm Web.
+  
+  Estou em busca de uma primeira oportunidade para que possa descobrir os nichos do mercado de trabalho e me profissionalizar na área.
   
 <div>
   <a href="https://github.com/desenvolvedormarinho">

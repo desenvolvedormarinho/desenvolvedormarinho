@@ -1,14 +1,29 @@
  
 ## Olá! Me chamo Maxmiliano Marinho
 
-  Tenho 31 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP - DF concluido em Dezembro de 2021.
+  Tenho 34 anos, formado em Análise e Desenvolvimento de Sistemas pela UNIP - DF concluido em Dezembro de 2021.
   
   Busco me aprofundar a cada dia mais nesse universo do desenvolvimento de software.
   Tenho conhecimento básico em desenvolvimento com a linguagen C e estou me aprofundando na linguagem Java. Possuo também bom conhecimento em HTML5 E CSS3.
+  Atualmente estou trabalhando em um projeto particular que se encontra privado por hora, sendo apresentado apenas a recrutadores, 
+  
+  *Tecnologias Utilizadas*
+
+Spring Boot: Framework principal para o desenvolvimento da aplicação back-end.
+
+PostgreSQL: Banco de dados utilizado para armazenar e gerenciar as informações dos profissionais, pacientes e atendimentos.
+
+Java: Linguagem de programação para o desenvolvimento da aplicação.
+
+JPA/Hibernate: Tecnologias utilizadas para facilitar a comunicação entre o banco de dados e a aplicação.
+
+Thymeleaf: Motor de templates utilizado para renderizar as páginas da aplicação web.
+
+Git: Controle de versão para o gerenciamento do código fonte do projeto.
   
   Estou me aprofundando na linguagem JAVA, com foco no desenvolvimento BACK-END e tbm Web.
   
-  Estou em busca de uma primeira oportunidade para que possa descobrir os nichos do mercado de trabalho e me profissionalizar na área.
+  Estou em busca de uma oportunidade para que possa descobrir os nichos do mercado de trabalho e me profissionalizar na área.
   
 <div>
   <a href="https://github.com/desenvolvedormarinho">
